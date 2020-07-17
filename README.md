@@ -1,2 +1,2 @@
 # nyasiDB
-The revolutionary database, NyasiDB. 
+Nyasidb is a database built in c++ for learning purposes..
